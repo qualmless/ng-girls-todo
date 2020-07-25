@@ -1,6 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { TodoItem } from '../interfaces/todo-item';
 
+
 @Component({
   selector: 'app-todo-item',
   template: `
